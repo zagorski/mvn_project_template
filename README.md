@@ -14,3 +14,5 @@ to run tests:
 ```
 mvn test
 ```
+
+to switch between `JUnit` and `TestNG` uncomment uncomment proper section in `pom.xml` file.
