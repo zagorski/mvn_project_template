@@ -15,7 +15,7 @@ to run tests:
 mvn test
 ```
 
-## Libraries attached to build
+## Libraries attached to project
 
 Some potentially usefull libraries are attached to project. You can (but you don't have to) use them:
 * Javaslang
