@@ -15,8 +15,6 @@ to run tests:
 mvn test
 ```
 
-to switch between `JUnit` and `TestNG` uncomment uncomment proper section in `pom.xml` file (by default enabled is `JUnit`).
-
 ## Libraries attached to build
 
 Some potentially usefull libraries are attached to project. You can (but you don't have to) use them:
@@ -27,3 +25,6 @@ Some potentially usefull libraries are attached to project. You can (but you don
 * Apache Commons Lang
 * JUnit
 * Spock Framework
+* TestNg
+
+to switch between `JUnit` and `TestNG` uncomment uncomment proper section in `pom.xml` file (by default enabled is `JUnit`).
