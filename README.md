@@ -16,3 +16,14 @@ mvn test
 ```
 
 to switch between `JUnit` and `TestNG` uncomment uncomment proper section in `pom.xml` file (by default enabled is `JUnit`).
+
+## Libraries attached to build
+
+Some potentially usefull libraries are attached to project. You can (but you don't have to) use them:
+* Javaslang
+* RxJava
+* Guava
+* Lombok
+* Apache Commons Lang
+* JUnit
+* Spock Framework
