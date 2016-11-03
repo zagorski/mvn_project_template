@@ -27,4 +27,4 @@ Some potentially usefull libraries are attached to project. You can (but you don
 * Spock Framework
 * TestNg
 
-to switch between `JUnit` and `TestNG` uncomment proper section in `pom.xml` file (by default enabled is `JUnit`).
+to switch between `JUnit` and `TestNG` uncomment proper section in `pom.xml` file (by default`JUnit`is enabled).
